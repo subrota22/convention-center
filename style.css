@@ -1,0 +1,15 @@
+body{font-family: cursive;}
+.bannerImage ,.inventionImage{height: 405px;   width: 100%;}
+.clientImage{height: 100px;width: 100px;}
+.footer{width: 99.1%;}
+.questionImage{height: 365px;}
+.footerImage{height: 100px; width: 180px;}
+.hotButton{float: right; margin-top: -70px; border: none; background-color: red; color: wheat; border-radius: 18px;
+width: 95px; padding: 3px;
+}
+@media (max-width:1000px) {
+    .flexDirction{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
