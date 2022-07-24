@@ -1,4 +1,5 @@
-body{font-family: cursive;}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Edu+SA+Beginner&family=Finlandica:ital,wght@1,600&family=Gentium+Book+Plus:ital,wght@0,700;1,700&family=Open+Sans:ital,wght@0,300;1,400&family=Poppins:wght@300;500&family=Raleway:wght@200&family=Roboto&family=Roboto+Slab:wght@300&display=swap');
+body{font-family: 'Poppins', sans-serif;}
 .bannerImage ,.inventionImage{height: 405px;   width: 100%;}
 .clientImage{height: 100px;width: 100px;}
 .footer{width: 99.1%;}
